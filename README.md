@@ -1,4 +1,4 @@
 # maven_training
-[build CI]( https://docs.github.com/en/actions/managing-workflow-runs/adding-a-workflow-status-badge)
-[couverture par les tests](https://codecov.io/gh/<your-name>/<your-project>/settings/badge)
+[![build workflow](https://github.com/TonyTEKAH/maven_training/actions/workflows/build.yml/badge.svg)](https://github.com/TonyTEKAH/maven_training/actions)
+[![codecov](https://codecov.io/gh/TonyTEKAH/maven_training/branch/main/graph/badge.svg)](https://codecov.io/gh/TonyTEKAH/maven_training)
 
